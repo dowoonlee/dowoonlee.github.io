@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-![Andromeda](screenshots/1599px-Andromeda_Galaxy_560mm_FL.jpg)
+![Andromeda](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Andromeda_Galaxy_560mm_FL.jpg/2560px-Andromeda_Galaxy_560mm_FL.jpg)
 
 Department of Astronomy, Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul 03722, Republic of Korea
 
