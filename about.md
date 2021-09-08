@@ -26,13 +26,13 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](screenshots/1599px-Andromeda_Galaxy_560mm_FL.jpg)
+![Andromeda](screenshots/1599px-Andromeda_Galaxy_560mm_FL.jpg)
 
 Department of Astronomy, Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul 03722, Republic of Korea
 
-# ```javascript
-# (() => console.log('Hello, World!'))();
-# ```
+```javascript
+(() => console.log('Hello, World!'))();
+```
 
 ## Features
 
