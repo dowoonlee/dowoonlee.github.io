@@ -34,24 +34,12 @@ Department of Astronomy, Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul 03
 (() => console.log('Hello, World!'))();
 ```
 
-## Features
+## Personal History
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+- 2018.09 ~ 2021.08 M.S., Yonsei University
+- 2014.01 ~ 2016.01 Military service
+- 2012.03 ~ 2018.08 B.S., Yonsei University
+
 
 ## Skins
 
