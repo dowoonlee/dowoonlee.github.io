@@ -28,12 +28,6 @@ key: page-about
 
 ![Andromeda](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Andromeda_Galaxy_560mm_FL.jpg/2560px-Andromeda_Galaxy_560mm_FL.jpg)
 
-Department of Astronomy, Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul 03722, Republic of Korea
-
-```javascript
-(() => console.log('Hello, World!'))();
-```
-
 ## Personal History
 
 - 2018.09 ~ 2021.08 M.S., Yonsei University
@@ -42,7 +36,7 @@ Department of Astronomy, Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul 03
 
 ## Contact information
 
-Office: Science Building, 562
-Mailing address: 562 Science Building, 50 Yonsei-ro, Seodaemun-gu, Seoul, South Korea, 03722
-Email : arcturus12@yonsei.ac.kr
+- Office: Science Building, 562
+- Mailing address: 562 Science Building, 50 Yonsei-ro, Seodaemun-gu, Seoul, South Korea, 03722
+- Email : arcturus12@yonsei.ac.kr
 
