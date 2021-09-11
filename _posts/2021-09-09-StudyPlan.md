@@ -7,7 +7,7 @@ tags: ProgramingStudy
 
 [BAEKJOON](https://www.acmicpc.net/)에서 문제를 단계별로 푸는 중인데 이걸 정리할 생각이고
 
-될 수 있으면 매일 한 문제 이상 올리고 싶네요.
+될 수 있으면 매 주 한 문제 이상 올리고 싶네요.
 
 미래의 나. 화이팅!
 
