@@ -30,12 +30,10 @@ key: page-about
 
 ## Personal History
 
-|         |      |         |                         |
-| ------- | ---- | ------- | ----------------------- |
-| 2021.01 | -    |         | SSAFY 7th               |
-| 2018.09 | -    | 2021.08 | M.S., Yonsei University |
-| 2014.01 | -    | 2016.01 | Military service        |
-| 2012.03 | -    | 2018.08 | B.S., Yonsei University |
+- 2021.01 ~ 			   SSAFY 7th
+- 2018.09 ~ 2021.08 M.S., Yonsei University
+- 2014.01 ~ 2016.01 Military service
+- 2012.03 ~ 2018.08 B.S., Yonsei University
 
 ## Contact information
 
