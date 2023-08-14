@@ -45,9 +45,15 @@ key: page-about
 
 ## Writings
 
+- Analysis on thruster alignment error of CANYVAL CubeSat (Soonhong Hwang, Myeongbo shim, Do Woon Lee, Jaepil Park, Sangyeong Park, Chandeok Park)
 - Spin-Orbit alignment of subhaloes in ILLUSTRIS simulation (DoWoon Lee, Tae-hwa Yoo)
 - Understanding the kinematic properties of galactic gas using Lyman-alpha emission (DoWoon Lee)
+- A novel window strategy for concept drift detection in seasonal time series (Do Woon Lee, Sumin Bae, Kangsub Kim, Soonhon An)
 
 ## Contact information
 
 - Email : arcturus12@yonsei.ac.kr
+
+## CV
+
+![Link](/CV.pdf)
